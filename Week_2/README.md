@@ -1,7 +1,7 @@
 # EIP_Week_2
 
 Group Members:
-Sakthi Ganesh M - https://github.com/yasuo19/EIP4-Week-1 
+Sakthi Ganesh M - https://github.com/yasuo19/EIP4/tree/master/Week%202
 
 
 Project Score: [0.019707133340882137, 0.9948]
