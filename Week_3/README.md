@@ -1,3 +1,5 @@
+Group Members: Sakthi Ganesh M - https://github.com/yasuo19/EIP4/tree/master/Week%203
+
 ### Final Validation Accuracy of Base Network: 81.75
 
 ## Model Definition:
